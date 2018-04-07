@@ -1,9 +1,9 @@
 # Vue-Parcel-Pack
-
+tempate vue and parcel
 ## Usage
 ```
 git clone https://github.com/tomatoaiu/vue-parcel-pack.git
 cd vue-parcel-pack
 npm i
-npm run start //access http://localhost:1234
+npm run start      #access http://localhost:1234
 ```
