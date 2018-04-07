@@ -1,5 +1,5 @@
 # Vue-Parcel-Pack
-tempate vue and parcel
+template vue and parcel
 ## Usage
 ```
 git clone https://github.com/tomatoaiu/vue-parcel-pack.git
