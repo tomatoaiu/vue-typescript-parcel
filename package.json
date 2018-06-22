@@ -1,26 +1,23 @@
 {
-  "name": "vue-redux",
+  "name": "parcel-vue-pack",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel index.html"
+    "start": "parcel ./src/index.html"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-plugin-transform-runtime": "^6.23.0",
-    "babel-preset-env": "^1.6.1",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-stage-2": "^6.24.1",
-    "babel-runtime": "^6.26.0",
-    "parcel-bundler": "^1.7.0",
-    "parcel-plugin-vue": "^1.5.0",
-    "vue": "^2.5.16",
-    "vue-template-compiler": "^2.5.16"
+    "@babel/core": "^7.0.0-beta.51",
+    "@vue/component-compiler-utils": "^2.0.0",
+    "parcel-bundler": "^1.9.2",
+    "vue-template-compiler": "^2.5.16",
+    "vue-hot-reload-api": "^2.3.0"
   }
 }
