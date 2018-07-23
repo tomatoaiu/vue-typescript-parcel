@@ -1,10 +1,10 @@
-# Vue-Parcel-Pack
-template vue and parcel
+# vue-typescript-parcel
+> Template of Vue and Typescript by Parcel build
 
 ## Usage
 ```sh
-git clone https://github.com/tomatoaiu/vue-parcel-pack.git
-cd vue-parcel-pack
+git clone https://github.com/tomatoaiu/vue-typescript-parcel.git 
+cd vue-typescript-parcel
 # case use npm
 npm i
 npm run start      #access http://localhost:1234
