@@ -1,5 +1,9 @@
+# nodejs
 node_modules
+
+# parcel
 .cache
-.vscode
 dist
-package-lock.json
+
+# visual studio code
+.vscode
