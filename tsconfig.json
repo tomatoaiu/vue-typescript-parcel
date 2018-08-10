@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true
+  },
+  "exclude": [
+    "node_modules",
+    ".cache",
+    "dist"
+  ],
+  "compileOnSave": false
+}
